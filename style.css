@@ -4,36 +4,9 @@ body {
     height: 100vh;
 }
 
-#slide-1 {
-    height: 100vh;
-    width: 100%;
-    background-color: blue;
-}
 
-#slide-2 {
-    height: 100vh;
-    width: 100%;
-    background-color: red;
-}
 
-#slide-3 {
-    height: 100vh;
-    width: 100%;
-    background-color: green;
-}
-
-#slide-4 {
-    height: 100vh;
-    width: 100%;
-    background-color: yellow;
-}
-
-#slide-5 {
-    height: 100vh;
-    width: 100%;
-}
-
-#slide-5 img {
+.slide img {
     height: 100vh;
     width: 100%;
 }

@@ -32,5 +32,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     //rotação automática a cada 2 segundos
-    setInterval(nextSlide, 4000)
+    setInterval(nextSlide, 4500)
 })
